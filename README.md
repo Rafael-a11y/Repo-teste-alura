@@ -6,6 +6,12 @@
 <h4>🔨 Exercícios 🔨 </h4>
 <ul>
   <li><strong>Exercício 1: </strong>Criar o repositório</li>
+  <li><strong>Exercício 2: </strong>Inserir os arquivos e pasta de imagens no repositório</li>
+  <li><strong>Exercício 3: </strong>Clonar o repositório para poder editá-lo na IDE</li>
+  <li><strong>Exercício 4: </strong>Fazer as devidas altearções no index.html e commitar as alterações feitas</li>
+  <li><strong>Exercício 5: </strong>Fazer o 'revert' no commit que contêm alterações com bugs no código</li>
+  <li><strong>Exercício 6: </strong>Resolver conflitos de 'pull'</li>
+  <li><strong>Exercício 7: </strong>Publicar o Projeto no GitHub Pages</li>
 </ul>
 
 # 📁 Acesso ao projeto
