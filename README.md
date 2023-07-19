@@ -1,4 +1,10 @@
 <h1 align="center">Sete dias de código Git e GitHub</h1>
+
+<p align="center">
+  <img src="https://github.com/Rafael-a11y/sete-dias-de-codigo-git-e-git-hub/assets/63820646/a8f7a760-8402-47cc-afb6-886a6328aff0#vitrinedev" 
+    alt="Imagem com título escrito: Git e GitHub - #sevendaysofcode">
+</p>
+
 <p>Repositório do #7daysofcode da Alura, 7 exercícios desenvolvidos ao longo de sete dias.</p>
 <h4>
   ✔🚧 Projeto em construção ✔🚧
